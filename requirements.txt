@@ -1,0 +1,2 @@
+# Install with --only-binary=:all: to prohibit an accidental Rust/source build.
+nemo-switchyard==0.3.0
